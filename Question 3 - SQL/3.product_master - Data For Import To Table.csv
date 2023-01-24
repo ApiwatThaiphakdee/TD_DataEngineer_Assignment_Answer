@@ -1,0 +1,10 @@
+product_id,product_name,retail_price,product_class_id
+1,aa,10,1
+2,bb,20,1
+3,cc,30,2
+4,dd,40,2
+5,ee,50,2
+6,ff,60,3
+7,gg,70,3
+8,hh,80,3
+9,ii,90,1
