@@ -5,3 +5,6 @@ Repository For TD_DataEngineer_Assignment_Answer
 ส่วนไฟล์ Power Point ตัวนี้จะเป็นการนำเสนอและกระบวนการคิดของโจทย์ในแต่ละข้อครับ
 ขอบคุณครับ
 ขอแสดงความนับถือ
+
+หมายเหตุ : เมื่อช่วงเย็นผมได้ Upload ไฟล์ .py เพิ่มเข้าไปอีก 1 ไฟล์ใน Folder Question 2 - Text Sanitizer โดยไฟล์ชื่อว่า textsanitizer_concept_oop.py 
+ซึ่งเป็นการเขียน Python Code แบบ OOP Concept ครับ โดยพี่ๆสามารถตรวจสอบไฟล์นี้แทนไฟล์ที่ชื่อว่า textsanitizer.py ได้เลยครับผม
