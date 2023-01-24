@@ -4,3 +4,4 @@
 3.Transaction & Master File = เป็นข้อมูลจำลองที่ผมใช้ Import เข้า DB หลังจากสร้าง DB ตาม ER ครับ
 4.Create View SQL Script = เป็น SCRIPT ที่ใช้สำหรับสร้าง View ที่เป็น Expected Output ของโจทย์ครับ
 5.Complete Assignment Database Back Up = เป็น Database ที่ทำขั้นตอน 1-4 เรียบร้อยแล้วครับ
+โดยใช้ PostgreSQL เป็น Based หลักครับ
